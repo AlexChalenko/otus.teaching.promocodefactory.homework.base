@@ -2,8 +2,7 @@
 
 namespace Otus.Teaching.PromoCodeFactory.Core.Domain.Administration
 {
-    public class Role
-        : BaseEntity
+    public class Role : BaseEntity
     {
         public string Name { get; set; }
 
